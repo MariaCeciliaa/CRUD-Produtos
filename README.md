@@ -2,7 +2,7 @@
 
 ## Instalações
 - XAMPP
-- phpMyAdmin
+- MySQL
 - php
 
 ## Etapas
