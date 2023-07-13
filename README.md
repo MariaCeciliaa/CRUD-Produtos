@@ -3,7 +3,7 @@
 ## Instalações
 - XAMPP
 - MySQL
-- php
+- PHP
 
 ## Etapas
 - Abra o XAMPP e de Start no Apache e no MySQL.
